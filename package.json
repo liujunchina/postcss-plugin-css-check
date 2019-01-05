@@ -1,0 +1,13 @@
+{
+    "name": "@lljj/postcss-plugin-css-check",
+    "version": "0.0.1",
+    "description": "postcss 插件，css代码里面不能直接使用颜色值",
+    "main": "index.js",
+    "repository": "https://github.com/liujunchina/postcss-plugin-css-check",
+    "homepage": "https://github.com/liujunchina/postcss-plugin-css-check",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": "Liu.Jun"
+}
