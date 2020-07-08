@@ -1,4 +1,5 @@
 
+> `不再使用`
 > * postcss-plugin-css-check 提供css 颜色和字号是否使用变量检测
 
 ## 安装
